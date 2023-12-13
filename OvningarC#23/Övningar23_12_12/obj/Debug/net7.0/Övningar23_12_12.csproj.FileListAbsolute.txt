@@ -1,0 +1,15 @@
+D:\repos\OvningarC#23\Övningar23_12_12\bin\Debug\net7.0\Övningar23_12_12.exe
+D:\repos\OvningarC#23\Övningar23_12_12\bin\Debug\net7.0\Övningar23_12_12.deps.json
+D:\repos\OvningarC#23\Övningar23_12_12\bin\Debug\net7.0\Övningar23_12_12.runtimeconfig.json
+D:\repos\OvningarC#23\Övningar23_12_12\bin\Debug\net7.0\Övningar23_12_12.dll
+D:\repos\OvningarC#23\Övningar23_12_12\bin\Debug\net7.0\Övningar23_12_12.pdb
+D:\repos\OvningarC#23\Övningar23_12_12\obj\Debug\net7.0\Övningar23_12_12.csproj.AssemblyReference.cache
+D:\repos\OvningarC#23\Övningar23_12_12\obj\Debug\net7.0\Övningar23_12_12.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\OvningarC#23\Övningar23_12_12\obj\Debug\net7.0\Övningar23_12_12.AssemblyInfoInputs.cache
+D:\repos\OvningarC#23\Övningar23_12_12\obj\Debug\net7.0\Övningar23_12_12.AssemblyInfo.cs
+D:\repos\OvningarC#23\Övningar23_12_12\obj\Debug\net7.0\Övningar23_12_12.csproj.CoreCompileInputs.cache
+D:\repos\OvningarC#23\Övningar23_12_12\obj\Debug\net7.0\Övningar23_12_12.dll
+D:\repos\OvningarC#23\Övningar23_12_12\obj\Debug\net7.0\refint\Övningar23_12_12.dll
+D:\repos\OvningarC#23\Övningar23_12_12\obj\Debug\net7.0\Övningar23_12_12.pdb
+D:\repos\OvningarC#23\Övningar23_12_12\obj\Debug\net7.0\Övningar23_12_12.genruntimeconfig.cache
+D:\repos\OvningarC#23\Övningar23_12_12\obj\Debug\net7.0\ref\Övningar23_12_12.dll
