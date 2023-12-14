@@ -1,0 +1,15 @@
+D:\repos\OvningarC-Web32\Övningar23_12_14\bin\Debug\net7.0\Repetition.exe
+D:\repos\OvningarC-Web32\Övningar23_12_14\bin\Debug\net7.0\Repetition.deps.json
+D:\repos\OvningarC-Web32\Övningar23_12_14\bin\Debug\net7.0\Repetition.runtimeconfig.json
+D:\repos\OvningarC-Web32\Övningar23_12_14\bin\Debug\net7.0\Repetition.dll
+D:\repos\OvningarC-Web32\Övningar23_12_14\bin\Debug\net7.0\Repetition.pdb
+D:\repos\OvningarC-Web32\Övningar23_12_14\obj\Debug\net7.0\Repetition.csproj.AssemblyReference.cache
+D:\repos\OvningarC-Web32\Övningar23_12_14\obj\Debug\net7.0\Repetition.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\OvningarC-Web32\Övningar23_12_14\obj\Debug\net7.0\Repetition.AssemblyInfoInputs.cache
+D:\repos\OvningarC-Web32\Övningar23_12_14\obj\Debug\net7.0\Repetition.AssemblyInfo.cs
+D:\repos\OvningarC-Web32\Övningar23_12_14\obj\Debug\net7.0\Repetition.csproj.CoreCompileInputs.cache
+D:\repos\OvningarC-Web32\Övningar23_12_14\obj\Debug\net7.0\Repetition.dll
+D:\repos\OvningarC-Web32\Övningar23_12_14\obj\Debug\net7.0\refint\Repetition.dll
+D:\repos\OvningarC-Web32\Övningar23_12_14\obj\Debug\net7.0\Repetition.pdb
+D:\repos\OvningarC-Web32\Övningar23_12_14\obj\Debug\net7.0\Repetition.genruntimeconfig.cache
+D:\repos\OvningarC-Web32\Övningar23_12_14\obj\Debug\net7.0\ref\Repetition.dll
