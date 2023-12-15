@@ -1,0 +1,12 @@
+D:\repos\OvningarC-Web32\ClassLib\bin\Debug\net7.0\ClassLib.deps.json
+D:\repos\OvningarC-Web32\ClassLib\bin\Debug\net7.0\ClassLib.dll
+D:\repos\OvningarC-Web32\ClassLib\bin\Debug\net7.0\ClassLib.pdb
+D:\repos\OvningarC-Web32\ClassLib\obj\Debug\net7.0\ClassLib.csproj.AssemblyReference.cache
+D:\repos\OvningarC-Web32\ClassLib\obj\Debug\net7.0\ClassLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\OvningarC-Web32\ClassLib\obj\Debug\net7.0\ClassLib.AssemblyInfoInputs.cache
+D:\repos\OvningarC-Web32\ClassLib\obj\Debug\net7.0\ClassLib.AssemblyInfo.cs
+D:\repos\OvningarC-Web32\ClassLib\obj\Debug\net7.0\ClassLib.csproj.CoreCompileInputs.cache
+D:\repos\OvningarC-Web32\ClassLib\obj\Debug\net7.0\ClassLib.dll
+D:\repos\OvningarC-Web32\ClassLib\obj\Debug\net7.0\refint\ClassLib.dll
+D:\repos\OvningarC-Web32\ClassLib\obj\Debug\net7.0\ClassLib.pdb
+D:\repos\OvningarC-Web32\ClassLib\obj\Debug\net7.0\ref\ClassLib.dll

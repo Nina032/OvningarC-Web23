@@ -1,0 +1,15 @@
+D:\repos\OvningarC-Web32\UppgiftBankkonto\bin\Debug\net7.0\UppgiftBankkonto.exe
+D:\repos\OvningarC-Web32\UppgiftBankkonto\bin\Debug\net7.0\UppgiftBankkonto.deps.json
+D:\repos\OvningarC-Web32\UppgiftBankkonto\bin\Debug\net7.0\UppgiftBankkonto.runtimeconfig.json
+D:\repos\OvningarC-Web32\UppgiftBankkonto\bin\Debug\net7.0\UppgiftBankkonto.dll
+D:\repos\OvningarC-Web32\UppgiftBankkonto\bin\Debug\net7.0\UppgiftBankkonto.pdb
+D:\repos\OvningarC-Web32\UppgiftBankkonto\obj\Debug\net7.0\UppgiftBankkonto.csproj.AssemblyReference.cache
+D:\repos\OvningarC-Web32\UppgiftBankkonto\obj\Debug\net7.0\UppgiftBankkonto.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\OvningarC-Web32\UppgiftBankkonto\obj\Debug\net7.0\UppgiftBankkonto.AssemblyInfoInputs.cache
+D:\repos\OvningarC-Web32\UppgiftBankkonto\obj\Debug\net7.0\UppgiftBankkonto.AssemblyInfo.cs
+D:\repos\OvningarC-Web32\UppgiftBankkonto\obj\Debug\net7.0\UppgiftBankkonto.csproj.CoreCompileInputs.cache
+D:\repos\OvningarC-Web32\UppgiftBankkonto\obj\Debug\net7.0\UppgiftBankkonto.dll
+D:\repos\OvningarC-Web32\UppgiftBankkonto\obj\Debug\net7.0\refint\UppgiftBankkonto.dll
+D:\repos\OvningarC-Web32\UppgiftBankkonto\obj\Debug\net7.0\UppgiftBankkonto.pdb
+D:\repos\OvningarC-Web32\UppgiftBankkonto\obj\Debug\net7.0\UppgiftBankkonto.genruntimeconfig.cache
+D:\repos\OvningarC-Web32\UppgiftBankkonto\obj\Debug\net7.0\ref\UppgiftBankkonto.dll

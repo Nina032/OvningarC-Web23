@@ -1,0 +1,15 @@
+D:\repos\OvningarC-Web32\Övning4 - LandHanterare\bin\Debug\net7.0\Övning4 - LandHanterare.exe
+D:\repos\OvningarC-Web32\Övning4 - LandHanterare\bin\Debug\net7.0\Övning4 - LandHanterare.deps.json
+D:\repos\OvningarC-Web32\Övning4 - LandHanterare\bin\Debug\net7.0\Övning4 - LandHanterare.runtimeconfig.json
+D:\repos\OvningarC-Web32\Övning4 - LandHanterare\bin\Debug\net7.0\Övning4 - LandHanterare.dll
+D:\repos\OvningarC-Web32\Övning4 - LandHanterare\bin\Debug\net7.0\Övning4 - LandHanterare.pdb
+D:\repos\OvningarC-Web32\Övning4 - LandHanterare\obj\Debug\net7.0\Övning4 - LandHanterare.csproj.AssemblyReference.cache
+D:\repos\OvningarC-Web32\Övning4 - LandHanterare\obj\Debug\net7.0\Övning4 - LandHanterare.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\OvningarC-Web32\Övning4 - LandHanterare\obj\Debug\net7.0\Övning4 - LandHanterare.AssemblyInfoInputs.cache
+D:\repos\OvningarC-Web32\Övning4 - LandHanterare\obj\Debug\net7.0\Övning4 - LandHanterare.AssemblyInfo.cs
+D:\repos\OvningarC-Web32\Övning4 - LandHanterare\obj\Debug\net7.0\Övning4 - LandHanterare.csproj.CoreCompileInputs.cache
+D:\repos\OvningarC-Web32\Övning4 - LandHanterare\obj\Debug\net7.0\Övning4 - LandHanterare.dll
+D:\repos\OvningarC-Web32\Övning4 - LandHanterare\obj\Debug\net7.0\refint\Övning4 - LandHanterare.dll
+D:\repos\OvningarC-Web32\Övning4 - LandHanterare\obj\Debug\net7.0\Övning4 - LandHanterare.pdb
+D:\repos\OvningarC-Web32\Övning4 - LandHanterare\obj\Debug\net7.0\Övning4 - LandHanterare.genruntimeconfig.cache
+D:\repos\OvningarC-Web32\Övning4 - LandHanterare\obj\Debug\net7.0\ref\Övning4 - LandHanterare.dll
