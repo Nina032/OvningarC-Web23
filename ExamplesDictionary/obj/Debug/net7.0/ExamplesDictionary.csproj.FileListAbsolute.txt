@@ -1,0 +1,15 @@
+D:\repos\OvningarC-Web32\ExamplesDictionary\bin\Debug\net7.0\ExamplesDictionary.exe
+D:\repos\OvningarC-Web32\ExamplesDictionary\bin\Debug\net7.0\ExamplesDictionary.deps.json
+D:\repos\OvningarC-Web32\ExamplesDictionary\bin\Debug\net7.0\ExamplesDictionary.runtimeconfig.json
+D:\repos\OvningarC-Web32\ExamplesDictionary\bin\Debug\net7.0\ExamplesDictionary.dll
+D:\repos\OvningarC-Web32\ExamplesDictionary\bin\Debug\net7.0\ExamplesDictionary.pdb
+D:\repos\OvningarC-Web32\ExamplesDictionary\obj\Debug\net7.0\ExamplesDictionary.csproj.AssemblyReference.cache
+D:\repos\OvningarC-Web32\ExamplesDictionary\obj\Debug\net7.0\ExamplesDictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\OvningarC-Web32\ExamplesDictionary\obj\Debug\net7.0\ExamplesDictionary.AssemblyInfoInputs.cache
+D:\repos\OvningarC-Web32\ExamplesDictionary\obj\Debug\net7.0\ExamplesDictionary.AssemblyInfo.cs
+D:\repos\OvningarC-Web32\ExamplesDictionary\obj\Debug\net7.0\ExamplesDictionary.csproj.CoreCompileInputs.cache
+D:\repos\OvningarC-Web32\ExamplesDictionary\obj\Debug\net7.0\ExamplesDictionary.dll
+D:\repos\OvningarC-Web32\ExamplesDictionary\obj\Debug\net7.0\refint\ExamplesDictionary.dll
+D:\repos\OvningarC-Web32\ExamplesDictionary\obj\Debug\net7.0\ExamplesDictionary.pdb
+D:\repos\OvningarC-Web32\ExamplesDictionary\obj\Debug\net7.0\ExamplesDictionary.genruntimeconfig.cache
+D:\repos\OvningarC-Web32\ExamplesDictionary\obj\Debug\net7.0\ref\ExamplesDictionary.dll

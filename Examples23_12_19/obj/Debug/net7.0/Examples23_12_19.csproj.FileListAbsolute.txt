@@ -1,0 +1,15 @@
+D:\repos\OvningarC-Web32\Examples23_12_19\bin\Debug\net7.0\Examples23_12_19.exe
+D:\repos\OvningarC-Web32\Examples23_12_19\bin\Debug\net7.0\Examples23_12_19.deps.json
+D:\repos\OvningarC-Web32\Examples23_12_19\bin\Debug\net7.0\Examples23_12_19.runtimeconfig.json
+D:\repos\OvningarC-Web32\Examples23_12_19\bin\Debug\net7.0\Examples23_12_19.dll
+D:\repos\OvningarC-Web32\Examples23_12_19\bin\Debug\net7.0\Examples23_12_19.pdb
+D:\repos\OvningarC-Web32\Examples23_12_19\obj\Debug\net7.0\Examples23_12_19.csproj.AssemblyReference.cache
+D:\repos\OvningarC-Web32\Examples23_12_19\obj\Debug\net7.0\Examples23_12_19.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\OvningarC-Web32\Examples23_12_19\obj\Debug\net7.0\Examples23_12_19.AssemblyInfoInputs.cache
+D:\repos\OvningarC-Web32\Examples23_12_19\obj\Debug\net7.0\Examples23_12_19.AssemblyInfo.cs
+D:\repos\OvningarC-Web32\Examples23_12_19\obj\Debug\net7.0\Examples23_12_19.csproj.CoreCompileInputs.cache
+D:\repos\OvningarC-Web32\Examples23_12_19\obj\Debug\net7.0\Examples23_12_19.dll
+D:\repos\OvningarC-Web32\Examples23_12_19\obj\Debug\net7.0\refint\Examples23_12_19.dll
+D:\repos\OvningarC-Web32\Examples23_12_19\obj\Debug\net7.0\Examples23_12_19.pdb
+D:\repos\OvningarC-Web32\Examples23_12_19\obj\Debug\net7.0\Examples23_12_19.genruntimeconfig.cache
+D:\repos\OvningarC-Web32\Examples23_12_19\obj\Debug\net7.0\ref\Examples23_12_19.dll
