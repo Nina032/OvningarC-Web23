@@ -1,0 +1,15 @@
+D:\repos\OvningarC-Web32\SimulasSoup\obj\Debug\net7.0\SimulasSoup.csproj.AssemblyReference.cache
+D:\repos\OvningarC-Web32\SimulasSoup\obj\Debug\net7.0\SimulasSoup.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\OvningarC-Web32\SimulasSoup\obj\Debug\net7.0\SimulasSoup.AssemblyInfoInputs.cache
+D:\repos\OvningarC-Web32\SimulasSoup\obj\Debug\net7.0\SimulasSoup.AssemblyInfo.cs
+D:\repos\OvningarC-Web32\SimulasSoup\obj\Debug\net7.0\SimulasSoup.csproj.CoreCompileInputs.cache
+D:\repos\OvningarC-Web32\SimulasSoup\bin\Debug\net7.0\SimulasSoup.exe
+D:\repos\OvningarC-Web32\SimulasSoup\bin\Debug\net7.0\SimulasSoup.deps.json
+D:\repos\OvningarC-Web32\SimulasSoup\bin\Debug\net7.0\SimulasSoup.runtimeconfig.json
+D:\repos\OvningarC-Web32\SimulasSoup\bin\Debug\net7.0\SimulasSoup.dll
+D:\repos\OvningarC-Web32\SimulasSoup\bin\Debug\net7.0\SimulasSoup.pdb
+D:\repos\OvningarC-Web32\SimulasSoup\obj\Debug\net7.0\SimulasSoup.dll
+D:\repos\OvningarC-Web32\SimulasSoup\obj\Debug\net7.0\refint\SimulasSoup.dll
+D:\repos\OvningarC-Web32\SimulasSoup\obj\Debug\net7.0\SimulasSoup.pdb
+D:\repos\OvningarC-Web32\SimulasSoup\obj\Debug\net7.0\SimulasSoup.genruntimeconfig.cache
+D:\repos\OvningarC-Web32\SimulasSoup\obj\Debug\net7.0\ref\SimulasSoup.dll

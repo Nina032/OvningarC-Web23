@@ -1,0 +1,15 @@
+D:\repos\OvningarC-Web32\SimulasTest\bin\Debug\net7.0\SimulasTest.exe
+D:\repos\OvningarC-Web32\SimulasTest\bin\Debug\net7.0\SimulasTest.deps.json
+D:\repos\OvningarC-Web32\SimulasTest\bin\Debug\net7.0\SimulasTest.runtimeconfig.json
+D:\repos\OvningarC-Web32\SimulasTest\bin\Debug\net7.0\SimulasTest.dll
+D:\repos\OvningarC-Web32\SimulasTest\bin\Debug\net7.0\SimulasTest.pdb
+D:\repos\OvningarC-Web32\SimulasTest\obj\Debug\net7.0\SimulasTest.csproj.AssemblyReference.cache
+D:\repos\OvningarC-Web32\SimulasTest\obj\Debug\net7.0\SimulasTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\OvningarC-Web32\SimulasTest\obj\Debug\net7.0\SimulasTest.AssemblyInfoInputs.cache
+D:\repos\OvningarC-Web32\SimulasTest\obj\Debug\net7.0\SimulasTest.AssemblyInfo.cs
+D:\repos\OvningarC-Web32\SimulasTest\obj\Debug\net7.0\SimulasTest.csproj.CoreCompileInputs.cache
+D:\repos\OvningarC-Web32\SimulasTest\obj\Debug\net7.0\SimulasTest.dll
+D:\repos\OvningarC-Web32\SimulasTest\obj\Debug\net7.0\refint\SimulasTest.dll
+D:\repos\OvningarC-Web32\SimulasTest\obj\Debug\net7.0\SimulasTest.pdb
+D:\repos\OvningarC-Web32\SimulasTest\obj\Debug\net7.0\SimulasTest.genruntimeconfig.cache
+D:\repos\OvningarC-Web32\SimulasTest\obj\Debug\net7.0\ref\SimulasTest.dll

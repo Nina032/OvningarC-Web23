@@ -1,0 +1,15 @@
+D:\repos\OvningarC-Web32\Uppgift2_20dec\bin\Debug\net7.0\Uppgift2_20dec.exe
+D:\repos\OvningarC-Web32\Uppgift2_20dec\bin\Debug\net7.0\Uppgift2_20dec.deps.json
+D:\repos\OvningarC-Web32\Uppgift2_20dec\bin\Debug\net7.0\Uppgift2_20dec.runtimeconfig.json
+D:\repos\OvningarC-Web32\Uppgift2_20dec\bin\Debug\net7.0\Uppgift2_20dec.dll
+D:\repos\OvningarC-Web32\Uppgift2_20dec\bin\Debug\net7.0\Uppgift2_20dec.pdb
+D:\repos\OvningarC-Web32\Uppgift2_20dec\obj\Debug\net7.0\Uppgift2_20dec.csproj.AssemblyReference.cache
+D:\repos\OvningarC-Web32\Uppgift2_20dec\obj\Debug\net7.0\Uppgift2_20dec.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\OvningarC-Web32\Uppgift2_20dec\obj\Debug\net7.0\Uppgift2_20dec.AssemblyInfoInputs.cache
+D:\repos\OvningarC-Web32\Uppgift2_20dec\obj\Debug\net7.0\Uppgift2_20dec.AssemblyInfo.cs
+D:\repos\OvningarC-Web32\Uppgift2_20dec\obj\Debug\net7.0\Uppgift2_20dec.csproj.CoreCompileInputs.cache
+D:\repos\OvningarC-Web32\Uppgift2_20dec\obj\Debug\net7.0\Uppgift2_20dec.dll
+D:\repos\OvningarC-Web32\Uppgift2_20dec\obj\Debug\net7.0\refint\Uppgift2_20dec.dll
+D:\repos\OvningarC-Web32\Uppgift2_20dec\obj\Debug\net7.0\Uppgift2_20dec.pdb
+D:\repos\OvningarC-Web32\Uppgift2_20dec\obj\Debug\net7.0\Uppgift2_20dec.genruntimeconfig.cache
+D:\repos\OvningarC-Web32\Uppgift2_20dec\obj\Debug\net7.0\ref\Uppgift2_20dec.dll

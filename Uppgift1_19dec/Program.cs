@@ -35,10 +35,40 @@ namespace Uppgift1_19dec
         {
             users.InsertRange( index, newUsers );
         }
-        //RemoveUser()
-        //GetUserCount()
-        //ClearUser()
-        //DisplayUsers()
+        public void RemoveUser(string name)
+        {
+            User userToRemove = null;
+
+            foreach (var user in users)
+            {
+                if (user.Name == name)
+                {
+                   userToRemove = user;
+                   break;
+                }
+            }
+
+            if (userToRemove != null)
+                users.Remove(userToRemove);
+            else
+                Console.WriteLine("User not found");
+        }
+        public int GetUserCount()
+        {
+            return users.Count;
+        }
+        public void ClearUser()
+        {
+            users.Clear();
+        }
+        public void DisplayUsers()
+        {
+            Console.WriteLine("Users: ");
+            foreach (var user in users)
+            {
+                Console.WriteLine(user);
+            }
+        }
 
     }
     internal class Program
@@ -64,6 +94,19 @@ namespace Uppgift1_19dec
 
             userManager.InsertUsers(1, newUsers);
 
+            //Ta bort en användare
+            userManager.RemoveUser("Alice");
+
+            //Hämta antal användare
+            Console.WriteLine("Antal användare: " + userManager.GetUserCount());
+
+            //Visa användare
+            userManager.DisplayUsers();
+
+            //Rensa användare
+            userManager.ClearUser();
+            Console.WriteLine("\nAnvändarlistan har rensats.");
+            Console.WriteLine("Antal användare efter rensning: " + userManager.GetUserCount());
         }
     }
 }
