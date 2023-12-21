@@ -1,0 +1,15 @@
+D:\repos\OvningarC-Web32\Pesonnummer\bin\Debug\net7.0\Pesonnummer.exe
+D:\repos\OvningarC-Web32\Pesonnummer\bin\Debug\net7.0\Pesonnummer.deps.json
+D:\repos\OvningarC-Web32\Pesonnummer\bin\Debug\net7.0\Pesonnummer.runtimeconfig.json
+D:\repos\OvningarC-Web32\Pesonnummer\bin\Debug\net7.0\Pesonnummer.dll
+D:\repos\OvningarC-Web32\Pesonnummer\bin\Debug\net7.0\Pesonnummer.pdb
+D:\repos\OvningarC-Web32\Pesonnummer\obj\Debug\net7.0\Pesonnummer.csproj.AssemblyReference.cache
+D:\repos\OvningarC-Web32\Pesonnummer\obj\Debug\net7.0\Pesonnummer.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\OvningarC-Web32\Pesonnummer\obj\Debug\net7.0\Pesonnummer.AssemblyInfoInputs.cache
+D:\repos\OvningarC-Web32\Pesonnummer\obj\Debug\net7.0\Pesonnummer.AssemblyInfo.cs
+D:\repos\OvningarC-Web32\Pesonnummer\obj\Debug\net7.0\Pesonnummer.csproj.CoreCompileInputs.cache
+D:\repos\OvningarC-Web32\Pesonnummer\obj\Debug\net7.0\Pesonnummer.dll
+D:\repos\OvningarC-Web32\Pesonnummer\obj\Debug\net7.0\refint\Pesonnummer.dll
+D:\repos\OvningarC-Web32\Pesonnummer\obj\Debug\net7.0\Pesonnummer.pdb
+D:\repos\OvningarC-Web32\Pesonnummer\obj\Debug\net7.0\Pesonnummer.genruntimeconfig.cache
+D:\repos\OvningarC-Web32\Pesonnummer\obj\Debug\net7.0\ref\Pesonnummer.dll
