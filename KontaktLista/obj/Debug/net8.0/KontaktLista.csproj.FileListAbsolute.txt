@@ -1,0 +1,15 @@
+D:\repos\OvningarC-Web32\KontaktLista\obj\Debug\net8.0\KontaktLista.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\OvningarC-Web32\KontaktLista\obj\Debug\net8.0\KontaktLista.AssemblyInfoInputs.cache
+D:\repos\OvningarC-Web32\KontaktLista\obj\Debug\net8.0\KontaktLista.AssemblyInfo.cs
+D:\repos\OvningarC-Web32\KontaktLista\obj\Debug\net8.0\KontaktLista.csproj.CoreCompileInputs.cache
+D:\repos\OvningarC-Web32\KontaktLista\obj\Debug\net8.0\KontaktLista.sourcelink.json
+D:\repos\OvningarC-Web32\KontaktLista\bin\Debug\net8.0\KontaktLista.exe
+D:\repos\OvningarC-Web32\KontaktLista\bin\Debug\net8.0\KontaktLista.deps.json
+D:\repos\OvningarC-Web32\KontaktLista\bin\Debug\net8.0\KontaktLista.runtimeconfig.json
+D:\repos\OvningarC-Web32\KontaktLista\bin\Debug\net8.0\KontaktLista.dll
+D:\repos\OvningarC-Web32\KontaktLista\bin\Debug\net8.0\KontaktLista.pdb
+D:\repos\OvningarC-Web32\KontaktLista\obj\Debug\net8.0\KontaktLista.dll
+D:\repos\OvningarC-Web32\KontaktLista\obj\Debug\net8.0\refint\KontaktLista.dll
+D:\repos\OvningarC-Web32\KontaktLista\obj\Debug\net8.0\KontaktLista.pdb
+D:\repos\OvningarC-Web32\KontaktLista\obj\Debug\net8.0\KontaktLista.genruntimeconfig.cache
+D:\repos\OvningarC-Web32\KontaktLista\obj\Debug\net8.0\ref\KontaktLista.dll
