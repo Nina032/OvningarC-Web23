@@ -1,0 +1,15 @@
+D:\repos\OvningarC-Web32\TicTacToeKonsol\bin\Debug\net8.0\TicTacToeKonsol.exe
+D:\repos\OvningarC-Web32\TicTacToeKonsol\bin\Debug\net8.0\TicTacToeKonsol.deps.json
+D:\repos\OvningarC-Web32\TicTacToeKonsol\bin\Debug\net8.0\TicTacToeKonsol.runtimeconfig.json
+D:\repos\OvningarC-Web32\TicTacToeKonsol\bin\Debug\net8.0\TicTacToeKonsol.dll
+D:\repos\OvningarC-Web32\TicTacToeKonsol\bin\Debug\net8.0\TicTacToeKonsol.pdb
+D:\repos\OvningarC-Web32\TicTacToeKonsol\obj\Debug\net8.0\TicTacToeKonsol.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\OvningarC-Web32\TicTacToeKonsol\obj\Debug\net8.0\TicTacToeKonsol.AssemblyInfoInputs.cache
+D:\repos\OvningarC-Web32\TicTacToeKonsol\obj\Debug\net8.0\TicTacToeKonsol.AssemblyInfo.cs
+D:\repos\OvningarC-Web32\TicTacToeKonsol\obj\Debug\net8.0\TicTacToeKonsol.csproj.CoreCompileInputs.cache
+D:\repos\OvningarC-Web32\TicTacToeKonsol\obj\Debug\net8.0\TicTacToeKonsol.sourcelink.json
+D:\repos\OvningarC-Web32\TicTacToeKonsol\obj\Debug\net8.0\TicTacToeKonsol.dll
+D:\repos\OvningarC-Web32\TicTacToeKonsol\obj\Debug\net8.0\refint\TicTacToeKonsol.dll
+D:\repos\OvningarC-Web32\TicTacToeKonsol\obj\Debug\net8.0\TicTacToeKonsol.pdb
+D:\repos\OvningarC-Web32\TicTacToeKonsol\obj\Debug\net8.0\TicTacToeKonsol.genruntimeconfig.cache
+D:\repos\OvningarC-Web32\TicTacToeKonsol\obj\Debug\net8.0\ref\TicTacToeKonsol.dll
