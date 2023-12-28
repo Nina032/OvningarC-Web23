@@ -1,0 +1,4 @@
+D:\repos\OvningarC-Web32\TicTacToe\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\repos\OvningarC-Web32\TicTacToe\obj\Debug\net8.0-windows\App.g.cs
+D:\repos\OvningarC-Web32\TicTacToe\obj\Debug\net8.0-windows\TicTacToe_MarkupCompile.cache
+D:\repos\OvningarC-Web32\TicTacToe\obj\Debug\net8.0-windows\TicTacToe_MarkupCompile.lref
